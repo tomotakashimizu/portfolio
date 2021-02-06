@@ -54,7 +54,7 @@ a:hover {
 /* Header End */
 
 /*   First block Start   */
-#first-block {
+#home {
   /* background-image: url("../images/first-back.jpg"); */
   background-size: cover;
   width: 100%;
@@ -94,7 +94,7 @@ h3 {
 /*   First block End   */
 
 /*   Second block Start   */
-#second-block {
+#about-me {
   background-color: #f0f0f0;
   text-align: center;
   padding-top: 100px;
@@ -130,7 +130,7 @@ h3 {
 /*   Second block End   */
 
 /*   Third block Start   */
-#third-block {
+#activity {
   background-color: #f05f40;
   text-align: center;
   padding-top: 100px;
@@ -178,7 +178,7 @@ h3 {
 }
 /*   Third block End   */
 
-#fourth-block {
+#portfolio {
   background-color: #000;
   background-size: cover;
   width: 100%;
@@ -189,7 +189,7 @@ h3 {
   align-items: center;
 }
 
-#fifth-block {
+#contact {
   background-color: #222222fe;
   text-align: center;
   padding-top: 100px;
