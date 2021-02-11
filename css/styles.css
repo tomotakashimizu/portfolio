@@ -112,9 +112,22 @@ h3 {
 
 .about-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   flex-direction: row;
   align-items: center;
+}
+
+.row {
+  width: 96%;
+  max-width: 1008px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.col {
+  position: relative;
+  padding: 0 18px;
+  float: left;
 }
 
 #about-me-image {
